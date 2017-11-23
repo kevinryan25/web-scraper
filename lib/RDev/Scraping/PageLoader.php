@@ -1,6 +1,8 @@
 <?php
 
 
+namespace RDev\Scraping;
+
 /**
  * Page Loader is a PHP Class which intend to load HTML Page from a remote server
  * This use the php CURL functions and proxy
